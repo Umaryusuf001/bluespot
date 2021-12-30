@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bluespot/static/css/main.f3b7bb4b.chunk.css",
+    "main.js": "/bluespot/static/js/main.d45a65be.chunk.js",
+    "main.js.map": "/bluespot/static/js/main.d45a65be.chunk.js.map",
+    "runtime-main.js": "/bluespot/static/js/runtime-main.22883d3d.js",
+    "runtime-main.js.map": "/bluespot/static/js/runtime-main.22883d3d.js.map",
+    "static/js/2.4526f701.chunk.js": "/bluespot/static/js/2.4526f701.chunk.js",
+    "static/js/2.4526f701.chunk.js.map": "/bluespot/static/js/2.4526f701.chunk.js.map",
+    "index.html": "/bluespot/index.html",
+    "static/css/main.f3b7bb4b.chunk.css.map": "/bluespot/static/css/main.f3b7bb4b.chunk.css.map",
+    "static/js/2.4526f701.chunk.js.LICENSE.txt": "/bluespot/static/js/2.4526f701.chunk.js.LICENSE.txt",
+    "static/media/me.b9e82f24.jpeg": "/bluespot/static/media/me.b9e82f24.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22883d3d.js",
+    "static/js/2.4526f701.chunk.js",
+    "static/css/main.f3b7bb4b.chunk.css",
+    "static/js/main.d45a65be.chunk.js"
+  ]
+}
